@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/APITests.csproj": {}
+  },
+  "projects": {
+    "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/APITestingWRestSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/APITestingWRestSharp.csproj",
+        "projectName": "APITestingWRestSharp",
+        "projectPath": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/APITestingWRestSharp.csproj",
+        "packagesPath": "/Users/astghiknersesyan/.nuget/packages/",
+        "outputPath": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/astghiknersesyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/APITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/APITests.csproj",
+        "projectName": "APITests",
+        "projectPath": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/APITests.csproj",
+        "packagesPath": "/Users/astghiknersesyan/.nuget/packages/",
+        "outputPath": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/astghiknersesyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/APITestingWRestSharp.csproj": {
+                "projectPath": "/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/APITestingWRestSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

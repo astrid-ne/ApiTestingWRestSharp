@@ -1,0 +1,12 @@
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/APITestingWRestSharp.deps.json
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/APITestingWRestSharp.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/APITestingWRestSharp.pdb
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.csproj.AssemblyReference.cache
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.AssemblyInfoInputs.cache
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.AssemblyInfo.cs
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.csproj.CoreCompileInputs.cache
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/refint/APITestingWRestSharp.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/APITestingWRestSharp.pdb
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/obj/Debug/net6.0/ref/APITestingWRestSharp.dll
