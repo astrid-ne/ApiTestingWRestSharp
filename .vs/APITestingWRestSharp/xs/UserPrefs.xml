@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>APITestingWRestSharp/APITestingWRestSharp.csproj</String>
+    <String>APITests/APITests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench ActiveDocument="APITests/RegressionTests.cs">
+    <Files>
+      <File FileName="APITestingWRestSharp/ListOfUsersDTO.cs" Line="6" Column="1" />
+      <File FileName="APITests/RegressionTests.cs" Line="17" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APITestingWRestSharp" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="APITestingWRestSharp" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/RegressionTests.cs" relfile="APITests/RegressionTests.cs" line="18" column="1" />
+      <Breakpoint file="/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/Demo.cs" relfile="APITestingWRestSharp/Demo.cs" line="18" column="1" />
+      <Breakpoint file="/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/Demo.cs" relfile="APITestingWRestSharp/Demo.cs" line="15" column="1" />
+      <Breakpoint file="/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/RegressionTests.cs" relfile="APITests/RegressionTests.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

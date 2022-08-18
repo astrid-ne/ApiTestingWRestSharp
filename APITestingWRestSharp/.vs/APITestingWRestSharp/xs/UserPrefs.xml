@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{BE79C975-C588-4D74-99A8-FB44688B3F45}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../APITests/RegressionTests.cs">
+    <Files>
+      <File FileName="Demo.cs" Line="17" Column="39" />
+      <File FileName="../APITests/RegressionTests.cs" Line="16" Column="1" />
+      <File FileName="ListOfUsersDTO.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APITestingWRestSharp" expanded="True">
+            <Node name="APITestingWRestSharp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="NUnit" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="APITests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="APITestingWRestSharp" expanded="True">
+            <Node name="APITests" expanded="True" selected="True">
+              <Node name="APITests" expanded="True">
+                <Node name="RegressionTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITests/RegressionTests.cs" line="16" column="1" />
+      <Breakpoint file="/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/Demo.cs" relfile="Demo.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.APITests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

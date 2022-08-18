@@ -14,8 +14,7 @@ public class RegressionTests
         var response = demo.GetUsers();
 
         Assert.AreEqual(2, response.Page);
-        Assert.AreEqual(6, response.PerPage);
-        Assert.AreEqual("Michael", response.Data[0].FirstName);
+        Assert.AreEqual("Michael", response.Data[0].first_name);
     }
 }
 

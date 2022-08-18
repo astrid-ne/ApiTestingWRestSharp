@@ -366,6 +366,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "NUnit": "3.13.3",
+          "NUnit3TestAdapter": "4.2.1",
           "Newtonsoft.Json": "13.0.1",
           "RestSharp": "108.0.1"
         },

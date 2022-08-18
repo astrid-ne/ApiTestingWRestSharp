@@ -1,3 +1,9 @@
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/nunit.engine.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/testcentric.engine.metadata.dll
 /Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/APITestingWRestSharp.deps.json
 /Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/APITestingWRestSharp.dll
 /Users/astghiknersesyan/Projects/APITestingWRestSharp/APITestingWRestSharp/bin/Debug/net6.0/APITestingWRestSharp.pdb
